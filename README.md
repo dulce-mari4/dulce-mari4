@@ -29,9 +29,9 @@
    <a href="www.linkedin.com/in/dulce-maria-abrantes-vidal-11318531a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-    <a href="https://instagram.com/dmaria.dev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmaria.dev" height="30" width="40" />
-    </a>
+    <a href="https://instagram.com/dmaria.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
 </p>
 
 ---
@@ -40,6 +40,8 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dulce-mari4&show_icons=true&locale=en" alt="dulce-mari4 Stats" />
+</p>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulce-mari4&layout=compact&langs_count=8&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas" />
 </p>
 
