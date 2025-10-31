@@ -1,37 +1,30 @@
-<h1 align="center">Olá 👋, sou Dulce Maria</h1>
-<h3 align="center">Atualmente em busca de uma vaga de estágio, cursando Ciência da Computação - 4º semestre.</h3>
+<h1 align="center">Olá 👋, me chamo Dulce Maria</h1>
+<h3 align="center">Atualmente estou em busca de uma vaga de estágio e estou cursando Ciência da Computação - 4º semestre.</h3>
 
-- 🔭 Atualmente estou trabalhando em [Curriculo-HTML-CSS](https://github.com/dulce-mari4/Curriculo-HTML-CSS.git)
+- 🔭 Atualmente estou trabalhando em um projeto de site/aplicativo para o ensino de matemática, logo mais estará disponível em meu GitHub. Veja um dos meus projetos iniciais: [Curriculo-HTML-CSS](https://github.com/dulce-mari4/Curriculo-HTML-CSS.git)
 
-- 🌱 Atualmente estou aprendendo **Minicurso de Python para Análise de Dados - IEEE UFC; Curso de Git e GitHub - Guanabara; Curso de Algoritmos - Guanabara;**
+- 🌱 Estou estudando **curso de Java básico e POO - Guanabara**, me aprofundando em Python através do livro **Curso Intensivo de Python** do autor Eric Matthes, e em meu tempo livre busco conhecimento no livro **Data Science do Zero** do autor Joel Grus.
+-  Conclui o **Minicurso de Python para Análise de Dados - IEEE UFC**, **Curso de Git e GitHub - Guanabara** e também **Curso de Algoritmos - Guanabara**.
 
-- 👯 Procuro colaborar em [Plotagem-idades](https://github.com/dulce-mari4/Plotagem-idades.git)
-
-- 📫 Como entrar em contato comigo **dulcesonia58@gmail.com**
+-  Este foi meu primeiro projeto concluído em Python, utilizando plotagem de dados: [Plotagem-idades](https://github.com/dulce-mari4/Plotagem-idades.git)
 
 - ⚡ Curiosidade **Sou uma pessoa comunicativa, sincera e participativa. Gosto de estudar sobre ciência de dados e aprendizado de máquina e amo felinos.**
-
+  
+- 📫 Caso queira entrar em contato comigo, este é o meu email: **dulcesonia58@gmail.com**
+  
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/dmaria.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmaria.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e2481acd-8e29-4334-9bd1-d7639361949d" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d929b669-53af-4bc2-b45a-c511ea13917f" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/822832e4-b7f4-4453-ad2f-338f5f05b93c" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f4aee869-2c40-4e97-b44e-47373b0a82f7" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a4b50d61-b394-4016-aae7-92f0bca1bb34" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f7068c20-20a6-4b33-ba2f-d3666afee50e" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/684bf790-af92-4c97-9776-b5da2483886d" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b62f2dbe-9841-4474-a4c2-710707fba794" />
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dulce-mari4&show_icons=true&locale=en" alt="dulce-mari4" /></p>
-
-<!--
-**dulce-mari4/dulce-mari4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
