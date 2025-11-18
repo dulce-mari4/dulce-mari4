@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Dulce Maria</h1>
-<h3 align="center">Atualmente estou em busca de uma vaga de estágio e estou cursando Ciência da Computação - 4º semestre.</h3>
+<h3 align="center">Estou em busca de uma vaga de estágio e estou cursando Ciência da Computação - 4º semestre.</h3>
 
 * 🔭 Atualmente estou trabalhando em um projeto de site/aplicativo para o ensino de matemática, logo mais estará disponível em meu GitHub. Veja um dos meus projetos iniciais: [Curriculo-HTML-CSS](https://github.com/dulce-mari4/Curriculo-HTML-CSS.git)
 
