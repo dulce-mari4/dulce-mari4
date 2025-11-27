@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Dulce Maria</h1>
 <h3 align="center">Estou em busca de uma vaga de estágio e estou cursando Ciência da Computação - 4º semestre.</h3>
 
-* 🔭 Atualmente estou trabalhando em um projeto de site/aplicativo para o ensino de matemática, logo mais estará disponível em meu GitHub. Veja um dos meus projetos iniciais: [Curriculo-HTML-CSS](https://github.com/dulce-mari4/Curriculo-HTML-CSS.git)
+* 🔭 Atualmente estou trabalhando em um projeto de site/aplicativo para o ensino de matemática, a versão inicial já está disponível nos meus repositórios: [Funcoes-em-Movimento](https://github.com/dulce-mari4/Funcoes_em_Movimento) e você também pode acessar o aplicativo diretamente: [Página Inicial - Streamlit](https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/). Veja um dos meus projetos iniciais: [Curriculo-HTML-CSS](https://github.com/dulce-mari4/Curriculo-HTML-CSS.git)
 
 * 🌱 **Estudos Atuais:**
     * **Java:** Curso de Java básico e POO - Guanabara.
