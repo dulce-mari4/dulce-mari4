@@ -4,6 +4,7 @@
 * 🔭 Atualmente estou trabalhando em um projeto de site/aplicativo para o ensino de matemática, a versão inicial já está disponível nos meus repositórios: [Funcoes-em-Movimento](https://github.com/dulce-mari4/Funcoes_em_Movimento) e você também pode acessar o aplicativo diretamente: [Página Inicial - Streamlit](https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/). Veja um dos meus projetos iniciais: [Curriculo-HTML-CSS](https://github.com/dulce-mari4/Curriculo-HTML-CSS.git)
 
 * 🌱 **Estudos Atuais:**
+    * **Bootcamp:** Santander 2025 - Ciência de Dados com Python (Plataforma Dio).
     * **Java:** Curso de Java básico e POO - Guanabara.
     * **Python:** Aprofundamento com o livro *Curso Intensivo de Python* (Eric Matthes).
     * **Ciência de Dados:** Busco conhecimento no livro *Data Science do Zero* (Joel Grus).
