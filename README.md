@@ -62,9 +62,11 @@ Criação de um site/aplicativo para o ensino de matemática, meu principal obje
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulce-mari4&layout=compact&theme=dracula)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulce-mari4&show_icons=true&theme=dracula)
 
 ---
 
