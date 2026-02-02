@@ -70,9 +70,7 @@ Criação de um site/aplicativo para o ensino de matemática, meu principal obje
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dulce-mari4&layout=compact" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dulce-mari4&show_icons=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidulce-mari4anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
