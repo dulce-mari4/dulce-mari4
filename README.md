@@ -22,36 +22,25 @@ Atualmente desenvolvo projetos práticos envolvendo **ETL, análise e visualiza�
 
 ### Santander Dev Week – ETL com Python
 Simulação de um pipeline **ETL (Extract, Transform, Load)** desenvolvido para o desafio da Santander Dev Week.  
-O projeto processa uma base de clientes bancários e gera **mensagens personalizadas com base no saldo**, aplicando conceitos de engenharia de dados e automação.
-
-🔗 Repositório: https://github.com/dulce-mari4/santander-dev-week-etl  
-
-🛠️ Tecnologias: Python, ETL, manipulação de dados.
-
+O projeto processa uma base de clientes bancários e gera **mensagens personalizadas com base no saldo**, aplicando conceitos de engenharia de dados e automação.<br>
+🔗 Repositório: https://github.com/dulce-mari4/santander-dev-week-etl<br>
+🛠️ Tecnologias: Python, ETL, manipulação de dados.<br>
 
 ### Dashboard de Vendas – Excel
 Criação de um **dashboard de vendas no Excel**, focado na organização, limpeza e visualização de dados.  
-O objetivo é transformar dados brutos em **informações visuais claras**, facilitando a análise de desempenho e a tomada de decisão.
-
-🔗 Repositório: https://github.com/dulce-mari4/dashboard-vendas-excel-dio  
-
-🛠️ Tecnologias: Excel, análise de dados, visualização.
-
+O objetivo é transformar dados brutos em **informações visuais claras**, facilitando a análise de desempenho e a tomada de decisão.<br>
+🔗 Repositório: https://github.com/dulce-mari4/dashboard-vendas-excel-dio<br>
+🛠️ Tecnologias: Excel, análise de dados, visualização.<br>
 
 ### Plotagem de Dados em Python
-Meu primeiro projeto concluído em Python, com foco em **visualização de dados** e interpretação de informações a partir de gráficos.
-
-🔗 Repositório: https://github.com/dulce-mari4/Plotagem-idades  
-
-🛠️ Tecnologias: Python, Pandas, Matplotlib
-
+Meu primeiro projeto concluído em Python, com foco em **visualização de dados** e interpretação de informações a partir de gráficos.<br>
+🔗 Repositório: https://github.com/dulce-mari4/Plotagem-idades<br>
+🛠️ Tecnologias: Python, Pandas, Matplotlib.<br>
 
 ### Funções em movimento - Projeto com Streamlit
 Criação de um site/aplicativo para o ensino de matemática, meu principal objetivo foi deixá-lo dinâmico, adicionando quizes e gráficos mutáveis.
-
-🔗 Repositório: https://github.com/dulce-mari4/Funcoes_em_Movimento - [Página Inicial]{https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/}
-
-🛠️ Tecnologias: Python, Streamlit, Markdown.
+🔗 Repositório: https://github.com/dulce-mari4/Funcoes_em_Movimento - [Página Inicial](https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/)<br>
+🛠️ Tecnologias: Python, Streamlit, Markdown.<br>
 
 ---
 
