@@ -4,7 +4,7 @@
 📊 Foco em **Análise de Dados, Ciência de Dados e Desenvolvimento de Aplicações**  
 💻 Interesse em transformar dados em soluções úteis por meio de programação e visualização
 
-Atualmente desenvolvo projetos práticos envolvendo **ETL, análise e visualização de dados**, além de aplicações simples utilizando **Python e frameworks** para entrega de soluções funcionais.
+Atualmente desenvolvo projetos práticos envolvendo ETL, análise e visualização de dados, além de aplicações simples utilizando Python e frameworks, com foco em resolver problemas reais de forma clara e funcional.
 
 * 🌱 **Estudos Atuais:**
     * **Python:** Aprofundamento com o livro *Curso Intensivo de Python* (Eric Matthes).
@@ -21,24 +21,26 @@ Atualmente desenvolvo projetos práticos envolvendo **ETL, análise e visualiza�
 ## Projetos em Destaque
 
 ### Santander Dev Week – ETL com Python
-Simulação de um pipeline **ETL (Extract, Transform, Load)** desenvolvido para o desafio da Santander Dev Week.  
+Simulação de um pipeline **ETL (Extract, Transform, Load)** desenvolvido para o desafio da Santander Dev Week.<br>
 O projeto processa uma base de clientes bancários e gera **mensagens personalizadas com base no saldo**, aplicando conceitos de engenharia de dados e automação.<br>
 🔗 Repositório: https://github.com/dulce-mari4/santander-dev-week-etl<br>
 🛠️ Tecnologias: Python, ETL, manipulação de dados.<br>
 
 ### Dashboard de Vendas – Excel
-Criação de um **dashboard de vendas no Excel**, focado na organização, limpeza e visualização de dados.  
+Criação de um **dashboard de vendas no Excel**, focado na organização, limpeza e visualização de dados.<br> 
 O objetivo é transformar dados brutos em **informações visuais claras**, facilitando a análise de desempenho e a tomada de decisão.<br>
 🔗 Repositório: https://github.com/dulce-mari4/dashboard-vendas-excel-dio<br>
 🛠️ Tecnologias: Excel, análise de dados, visualização.<br>
 
 ### Plotagem de Dados em Python
-Meu primeiro projeto concluído em Python, com foco em **visualização de dados** e interpretação de informações a partir de gráficos.<br>
+Meu **primeiro projeto** concluído em Python.<br>
+Foco em **visualização de dados** e interpretação de informações a partir de gráficos.<br>
 🔗 Repositório: https://github.com/dulce-mari4/Plotagem-idades<br>
 🛠️ Tecnologias: Python, Pandas, Matplotlib.<br>
 
 ### Funções em movimento - Projeto com Streamlit
-Criação de um site/aplicativo para o ensino de matemática, meu principal objetivo foi deixá-lo dinâmico, adicionando quizes e gráficos mutáveis.
+Criação de um site/aplicativo para o ensino de matemática.<br>
+Aqui, o objetivo foi deixá-lo **dinâmico e atrativo**, adicionando quizes e gráficos mutáveis.<br>
 🔗 Repositório: https://github.com/dulce-mari4/Funcoes_em_Movimento - [Página Inicial](https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/)<br>
 🛠️ Tecnologias: Python, Streamlit, Markdown.<br>
 
@@ -63,13 +65,10 @@ Criação de um site/aplicativo para o ensino de matemática, meu principal obje
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <img src="https://github.com/user-attachments/assets/e2481acd-8e29-4334-9bd1-d7639361949d" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/d929b669-53af-4bc2-b45a-c511ea13917f" alt="Nome da Tecnologia 2" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/822832e4-b7f4-4453-ad2f-338f5f05b93c" alt="Nome da Tecnologia 3" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/f4aee869-2c40-4e97-b44e-47373b0a82f7" alt="Nome da Tecnologia 4" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/a4b50d61-b394-4016-aae7-92f0bca1bb34" alt="Nome da Tecnologia 5" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/f7068c20-20a6-4b33-ba2f-d3666afee50e" alt="Nome da Tecnologia 5" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/684bf790-af92-4c97-9776-b5da2483886d" alt="Nome da Tecnologia 5" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/b62f2dbe-9841-4474-a4c2-710707fba794" alt="Nome da Tecnologia 5" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/a4b50d61-b394-4016-aae7-92f0bca1bb34" alt="Pandas" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/f7068c20-20a6-4b33-ba2f-d3666afee50e" alt="Streamlit" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/684bf790-af92-4c97-9776-b5da2483886d" alt="NumPy" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/b62f2dbe-9841-4474-a4c2-710707fba794" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" alt="Matplotlib" width="40" height="40" />
