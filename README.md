@@ -1,7 +1,12 @@
-<h1 align="center">Olá 👋, me chamo Dulce Maria</h1>
-<h3 align="center">Em busca de uma vaga de estágio, cursando Ciência da Computação - 4º semestre.</h3>
+## 👋 Olá! Eu sou a Dulce Maria
 
-* 🔭 Atualmente estou trabalhando em um projeto de site/aplicativo para o ensino de matemática, a versão inicial já está disponível nos meus repositórios: [Funcoes-em-Movimento](https://github.com/dulce-mari4/Funcoes_em_Movimento) e você também pode acessar o aplicativo diretamente: [Página Inicial - Streamlit](https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/). Veja um dos meus projetos iniciais: [Curriculo-HTML-CSS](https://github.com/dulce-mari4/Curriculo-HTML-CSS.git)
+🎓 Estudante de Ciência da Computação (4º semestre)  
+📊 Foco em **Análise de Dados, Ciência de Dados e Desenvolvimento de Aplicações**  
+💻 Interesse em transformar dados em soluções úteis por meio de programação e visualização
+
+Atualmente desenvolvo projetos práticos envolvendo **ETL, análise e visualização de dados**, além de aplicações simples utilizando **Python e frameworks** para entrega de soluções funcionais.
+
+--- 
 
 * 🌱 **Estudos Atuais:**
     * **Python:** Aprofundamento com o livro *Curso Intensivo de Python* (Eric Matthes).
@@ -15,16 +20,36 @@
 
 ---
 
-### 💻 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-* 📊 Este foi meu primeiro projeto concluído em Python, utilizando plotagem de dados: [Plotagem-idades](https://github.com/dulce-mari4/Plotagem-idades.git)
+### 🔄 Santander Dev Week – ETL com Python
+Simulação de um pipeline **ETL (Extract, Transform, Load)** desenvolvido para o desafio da Santander Dev Week.  
+O projeto processa uma base de clientes bancários e gera **mensagens personalizadas com base no saldo**, aplicando conceitos de engenharia de dados e automação.
+🔗 Repositório: https://github.com/dulce-mari4/santander-dev-week-etl  
+🛠️ Tecnologias: Python, ETL, manipulação de dados.
+
+### 📊 Dashboard de Vendas – Excel
+Criação de um **dashboard de vendas no Excel**, focado na organização, limpeza e visualização de dados.  
+O objetivo é transformar dados brutos em **informações visuais claras**, facilitando a análise de desempenho e a tomada de decisão.
+🔗 Repositório: https://github.com/dulce-mari4/dashboard-vendas-excel-dio  
+🛠️ Tecnologias: Excel, análise de dados, visualização.
+
+### 📈 Projeto Inicial – Plotagem de Dados em Python
+Meu primeiro projeto concluído em Python, com foco em **visualização de dados** e interpretação de informações a partir de gráficos.
+🔗 Repositório: https://github.com/dulce-mari4/Plotagem-idades  
+🛠️ Tecnologias: Python, Pandas, Matplotlib
+
+### 📚 Funções em movimento - Projeto com streamlit
+Criação de um site/aplicativo para o ensino de matemática, meu principal objetivo foi deixá-lo dinâmico, adicionando quizes e gráficos mutáveis.
+🔗 Repositório: https://github.com/dulce-mari4/Funcoes_em_Movimento - [Página Inicial]{https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/}
+🛠️ Tecnologias: Python, Streamlit, Markdown.
 
 ---
 
 ### 🌐 Conecte-se comigo:
 
 * **Email:** **dulcesonia58@gmail.com**
-* **Soft Skills:** Sou uma pessoa comunicativa, sincera e participativa.
+* ✨ Soft skills: comunicação clara, organização, participação ativa e facilidade em aprender novas tecnologias.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/dulce-maria-abrantes-vidal-11318531a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -40,10 +65,15 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dulce-mari4&show_icons=true&locale=en" alt="dulce-mari4 Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?dulce-mari4=anuraghazra" alt="dulce-mari4 Status" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulce-mari4&layout=compact&langs_count=8&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulce-mari4&layout=compact&theme=dracula"
+ alt="Top Langs" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dulce-mari4&show_icons=true&theme=dracula"
+ alt="Dulce's GitHub stats" />
 </p>
 
 ---
