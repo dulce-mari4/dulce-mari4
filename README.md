@@ -6,8 +6,6 @@
 
 Atualmente desenvolvo projetos práticos envolvendo **ETL, análise e visualização de dados**, além de aplicações simples utilizando **Python e frameworks** para entrega de soluções funcionais.
 
---- 
-
 * 🌱 **Estudos Atuais:**
     * **Python:** Aprofundamento com o livro *Curso Intensivo de Python* (Eric Matthes).
     * **Ciência de Dados:** Conhecimento no livro *Data Science do Zero* (Joel Grus).
@@ -25,23 +23,31 @@ Atualmente desenvolvo projetos práticos envolvendo **ETL, análise e visualiza�
 ### 🔄 Santander Dev Week – ETL com Python
 Simulação de um pipeline **ETL (Extract, Transform, Load)** desenvolvido para o desafio da Santander Dev Week.  
 O projeto processa uma base de clientes bancários e gera **mensagens personalizadas com base no saldo**, aplicando conceitos de engenharia de dados e automação.
+
 🔗 Repositório: https://github.com/dulce-mari4/santander-dev-week-etl  
+
 🛠️ Tecnologias: Python, ETL, manipulação de dados.
 
 ### 📊 Dashboard de Vendas – Excel
 Criação de um **dashboard de vendas no Excel**, focado na organização, limpeza e visualização de dados.  
 O objetivo é transformar dados brutos em **informações visuais claras**, facilitando a análise de desempenho e a tomada de decisão.
+
 🔗 Repositório: https://github.com/dulce-mari4/dashboard-vendas-excel-dio  
+
 🛠️ Tecnologias: Excel, análise de dados, visualização.
 
 ### 📈 Projeto Inicial – Plotagem de Dados em Python
 Meu primeiro projeto concluído em Python, com foco em **visualização de dados** e interpretação de informações a partir de gráficos.
+
 🔗 Repositório: https://github.com/dulce-mari4/Plotagem-idades  
+
 🛠️ Tecnologias: Python, Pandas, Matplotlib
 
 ### 📚 Funções em movimento - Projeto com streamlit
 Criação de um site/aplicativo para o ensino de matemática, meu principal objetivo foi deixá-lo dinâmico, adicionando quizes e gráficos mutáveis.
+
 🔗 Repositório: https://github.com/dulce-mari4/Funcoes_em_Movimento - [Página Inicial]{https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/}
+
 🛠️ Tecnologias: Python, Streamlit, Markdown.
 
 ---
@@ -64,9 +70,13 @@ Criação de um site/aplicativo para o ensino de matemática, meu principal obje
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulce-mari4&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulce-mari4&layout=compact&theme=dracula"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulce-mari4&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulce-mari4&show_icons=true&theme=dracula"/>
+</p>
 
 ---
 
@@ -80,4 +90,8 @@ Criação de um site/aplicativo para o ensino de matemática, meu principal obje
   <img src="https://github.com/user-attachments/assets/f7068c20-20a6-4b33-ba2f-d3666afee50e" alt="Nome da Tecnologia 5" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/684bf790-af92-4c97-9776-b5da2483886d" alt="Nome da Tecnologia 5" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/b62f2dbe-9841-4474-a4c2-710707fba794" alt="Nome da Tecnologia 5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" alt="Matplotlib" width="40" height="40" />
+   
   </p>
