@@ -18,9 +18,9 @@ Atualmente desenvolvo projetos práticos envolvendo **ETL, análise e visualiza�
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🔄 Santander Dev Week – ETL com Python
+### Santander Dev Week – ETL com Python
 Simulação de um pipeline **ETL (Extract, Transform, Load)** desenvolvido para o desafio da Santander Dev Week.  
 O projeto processa uma base de clientes bancários e gera **mensagens personalizadas com base no saldo**, aplicando conceitos de engenharia de dados e automação.
 
@@ -28,7 +28,8 @@ O projeto processa uma base de clientes bancários e gera **mensagens personaliz
 
 🛠️ Tecnologias: Python, ETL, manipulação de dados.
 
-### 📊 Dashboard de Vendas – Excel
+
+### Dashboard de Vendas – Excel
 Criação de um **dashboard de vendas no Excel**, focado na organização, limpeza e visualização de dados.  
 O objetivo é transformar dados brutos em **informações visuais claras**, facilitando a análise de desempenho e a tomada de decisão.
 
@@ -36,14 +37,16 @@ O objetivo é transformar dados brutos em **informações visuais claras**, faci
 
 🛠️ Tecnologias: Excel, análise de dados, visualização.
 
-### 📈 Projeto Inicial – Plotagem de Dados em Python
+
+### Plotagem de Dados em Python
 Meu primeiro projeto concluído em Python, com foco em **visualização de dados** e interpretação de informações a partir de gráficos.
 
 🔗 Repositório: https://github.com/dulce-mari4/Plotagem-idades  
 
 🛠️ Tecnologias: Python, Pandas, Matplotlib
 
-### 📚 Funções em movimento - Projeto com streamlit
+
+### Funções em movimento - Projeto com Streamlit
 Criação de um site/aplicativo para o ensino de matemática, meu principal objetivo foi deixá-lo dinâmico, adicionando quizes e gráficos mutáveis.
 
 🔗 Repositório: https://github.com/dulce-mari4/Funcoes_em_Movimento - [Página Inicial]{https://funcoesemmovimento-7f66sh6fr9ywsrkyt7g94w.streamlit.app/}
@@ -55,7 +58,7 @@ Criação de um site/aplicativo para o ensino de matemática, meu principal obje
 ### 🌐 Conecte-se comigo:
 
 * **Email:** **dulcesonia58@gmail.com**
-* ✨ Soft skills: comunicação clara, organização, participação ativa e facilidade em aprender novas tecnologias.
+* **Soft skills:** comunicação clara, organização, participação ativa e facilidade em aprender novas tecnologias.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/dulce-maria-abrantes-vidal-11318531a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -65,12 +68,6 @@ Criação de um site/aplicativo para o ensino de matemática, meu principal obje
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
 </p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidulce-mari4anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -87,5 +84,4 @@ Criação de um site/aplicativo para o ensino de matemática, meu principal obje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" alt="Matplotlib" width="40" height="40" />
-   
   </p>
